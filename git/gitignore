@@ -22,6 +22,8 @@ TAGS
 !TAGS/
 tags
 !tags/
+.tags
+.tags1
 gtags.files
 GTAGS
 GRTAGS
@@ -43,15 +45,3 @@ Session.vim
 # SASS
 # ----------------------------------------------------------------------------------------------
 .sass-cache
-
-
-# SUBL
-# ----------------------------------------------------------------------------------------------
-*.sublime-workspace
-*.sublime-project
-.idea
-.gemtags
-.tags
-.tags_sorted_by_file
-**/**/Iconr
-Iconr
